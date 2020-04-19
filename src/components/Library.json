@@ -1,0 +1,47 @@
+[
+    {
+        "id": 0,
+        "image" : "Book1",
+        "name" : "Jagun"
+    },
+    {
+        "id": 1,
+        "image" : "Book2",
+        "name" : "Ekwensu"
+    },
+    {
+        "id": 2,
+        "image" : "Book3",
+        "name" : "Renascentia"
+    },
+    {
+        "id": 3,
+        "image" : "Book4",
+        "name" : "Mmiri"
+    },
+    {
+        "id": 4,
+        "image" : "Book5",
+        "name" : "Ojo oja"
+    },
+    {
+        "id": 5,
+        "image" : "Book6",
+        "name" : "River Goddess"
+    },
+    {
+        "id": 6,
+        "image" : "Book7",
+        "name" : "Something in the water"
+    },
+    {
+        "id": 7,
+        "image" : "Book8",
+        "name" : "Huntress"
+    },
+    {
+        "id": 8,
+        "image" : "Book9",
+        "name" : "The stronger the truck"
+    }
+    ]

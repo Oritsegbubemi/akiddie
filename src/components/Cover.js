@@ -1,0 +1,9 @@
+exports.Book1 = require('../images/books/Artboard_1.png');
+exports.Book2 = require('../images/books/Artboard_2.png');
+exports.Book3 = require('../images/books/Artboard_3.png');
+exports.Book4 = require('../images/books/Artboard_4.png');
+exports.Book5 = require('../images/books/Artboard_5.png');
+exports.Book6 = require('../images/books/Artboard_6.png');
+exports.Book7 = require('../images/books/Artboard_7.png');
+exports.Book8 = require('../images/books/Artboard_8.png');
+exports.Book9 = require('../images/books/Artboard_9.jpg');
